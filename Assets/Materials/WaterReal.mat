@@ -25,7 +25,7 @@ Material:
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -81,32 +81,32 @@ Material:
     - _BumpScale: 1
     - _Cull: 2
     - _Cutoff: 0.5
-    - _Depth: 1
-    - _Displacement: 4.92
+    - _Depth: 13.5
+    - _Displacement: 1200
     - _DstBlend: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _NormalStrength: 0.65
+    - _NormalStrength: 1
     - _OcclusionStrength: 1
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.875
+    - _Smoothness: 0.703
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Strength: 0.06
+    - _Strength: 0.061
     - _Surface: 0
-    - _Tiling: 18
+    - _Tiling: 60
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _DeepColor: {r: 0.21466713, g: 0.46626395, b: 0.6792453, a: 0.83137256}
+    - _DeepColor: {r: 0, g: 0.24528301, b: 0.102037705, a: 0.83137256}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ShallowColor: {r: 0.15792978, g: 0.8584906, b: 0.8513342, a: 0.8352941}
+    - _ShallowColor: {r: 0, g: 0.49019608, b: 0.4206011, a: 0.8352941}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
